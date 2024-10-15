@@ -4,35 +4,35 @@
       "id": 1,
       "nome": "Alice",
       "idade": 20,
-      "nota": [70, 80, 90],
+      "nota": [7, 8, 9],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
     },
     {
       "id": 2,
       "nome": "Bruno",
       "idade": 22,
-      "nota": [60, 65, 70],
+      "nota": [6, 6.5, 7],
       "frequencia": [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 3,
       "nome": "Carla",
       "idade": 19,
-      "nota": [50, 55, 45],
+      "nota": [5, 5.5, 4.5],
       "frequencia": [0, 0, 1, 1, 1, 0, 1, 1, 1, 1]
     },
     {
       "id": 4,
       "nome": "Daniel",
       "idade": 21,
-      "nota": [85, 90, 95],
+      "nota": [8.5, 9, 9.5],
       "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     },
     {
       "id": 5,
       "nome": "Ester",
       "idade": 23,
-      "nota": [30, 40, 35],
+      "nota": [3, 4, 3.5],
       "frequencia": [1, 1, 0, 0, 0, 0, 1, 1, 1, 0]
     }
   ]
