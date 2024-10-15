@@ -1,108 +1,39 @@
 {
-    "alunos": [
-        {
-            "nome": "Ana Silva",
-            "idade": 20,
-            "nota": [
-                8.5,
-                9,
-                7.5
-            ],
-            "frequencia": [
-                true,
-                true,
-                false,
-                true,
-                true,
-                false,
-                true,
-                true,
-                true,
-                false
-            ]
-        },
-        {
-            "nome": "Carlos Santos",
-            "idade": 22,
-            "nota": [
-                7,
-                6.5,
-                8
-            ],
-            "frequencia": [
-                true,
-                false,
-                true,
-                true,
-                true,
-                true,
-                false,
-                true,
-                false,
-                true
-            ]
-        },
-        {
-            "nome": "Beatriz Souza",
-            "idade": 19,
-            "nota": [
-                9,
-                8,
-                7
-            ],
-            "frequencia": [
-                true,
-                true,
-                true,
-                true,
-                true,
-                true,
-                true,
-                false,
-                false,
-                true
-            ]
-        },
-        {
-            "nome": "Diego Oliveira",
-            "idade": 21,
-            "nota": [
-                6,
-                7.5,
-                7
-            ],
-            "frequencia": [
-                false,
-                true,
-                true,
-                true,
-                true,
-                false,
-                false,
-                true,
-                true
-            ]
-        },
-        {
-            "nome": "Fernanda Costa",
-            "idade": 23,
-            "nota": [
-                8,
-                8.5,
-                9
-            ],
-            "frequencia": [
-                true,
-                true,
-                true,
-                false,
-                true,
-                true,
-                true,
-                true,
-                true,
-                true
-            ]
-        }
-    ]
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Alice",
+      "idade": 20,
+      "nota": [70, 80, 90],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+    },
+    {
+      "id": 2,
+      "nome": "Bruno",
+      "idade": 22,
+      "nota": [60, 65, 70],
+      "frequencia": [1, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "id": 3,
+      "nome": "Carla",
+      "idade": 19,
+      "nota": [50, 55, 45],
+      "frequencia": [0, 0, 1, 1, 1, 0, 1, 1, 1, 1]
+    },
+    {
+      "id": 4,
+      "nome": "Daniel",
+      "idade": 21,
+      "nota": [85, 90, 95],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "id": 5,
+      "nome": "Ester",
+      "idade": 23,
+      "nota": [30, 40, 35],
+      "frequencia": [1, 1, 0, 0, 0, 0, 1, 1, 1, 0]
+    }
+  ]
 }
